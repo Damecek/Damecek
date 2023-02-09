@@ -57,7 +57,7 @@
     </a>
 </p>
 
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0" align="center">
+<table align="center">
     <td>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damecek&show_icons=true&locale=en&layout=compact&theme=radical" alt="damecek"/>
     </td>
