@@ -5,12 +5,18 @@
     <img src="https://komarev.com/ghpvc/?username=damecek&label=Profile%20views&color=0e75b6&style=flat" alt="damecek"/>
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=damecek&title=MultiLanguage,Commits&row=1&column=2&theme=nord" alt="damecek"/>
-    </a>
-</p>
-
+<table align="center">
+    <td>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=damecek&title=MultiLanguage,Commits&row=1&column=2&theme=nord" alt="damecek"/>
+        </a>
+    </td>
+    <td>
+        <a href="https://salesforce.stackexchange.com/users/96748/damecek">
+            <img src="https://salesforce.stackexchange.com/users/flair/96748.png?theme=dark" width="208" height="58">
+        </a>
+    </td>
+<table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/adam-stepanek-cz" target="blank">
@@ -51,7 +57,7 @@
     </a>
 </p>
 
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0" align="center">
     <td>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damecek&show_icons=true&locale=en&layout=compact&theme=radical" alt="damecek"/>
     </td>
