@@ -51,7 +51,11 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damecek&show_icons=true&locale=en&layout=compact&theme=radical" alt="damecek"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=damecek&show_icons=true&locale=en&theme=radical" alt="damecek"/>
-</p>
+<table>
+    <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damecek&show_icons=true&locale=en&layout=compact&theme=radical" alt="damecek"/>
+    </td>
+    <td>
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=damecek&show_icons=true&locale=en&theme=radical" alt="damecek"/>
+    </td>
+</table>
