@@ -1,6 +1,17 @@
-<h1 align="center">Hey visitor, I'am Damecek</h1>
-<h3 align="center">Developer by a soul</h3>
+Hi 👋 My name is Adam
+=====================
 
+Developer with a soul
+---------------------
+
+I am a focused software developer with expertise in Salesforce and a commitment to open-source contributions. Driven by continuous learning, I actively engage in the Salesforce Stack Exchange community, sharing insights and solutions that reflect my dedication to quality and professional growth.
+
+* 🌍  I'm based in Czech Republic - Highland
+* 🖥️  See my portfolio at [Brag App](http://brag-app-dev-ed.my.site.com/)
+* 🚀  I'm currently working on [Better Navigator for Salesforce](http://github.com/dannysummerlin/force-navigator)
+* 🧠  I'm learning Typescript and SF CLI Plugin Development
+
+  
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=damecek&label=Profile%20views&color=0e75b6&style=flat" alt="damecek"/>
 </p>
