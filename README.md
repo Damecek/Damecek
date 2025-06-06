@@ -1,14 +1,14 @@
 Hi 👋 My name is Adam
 =====================
 
-Developer with a soul
----------------------
+Leave the campground cleaner than you found it
+----------------------------------------------
 
 I am a focused software developer with expertise in Salesforce and a commitment to open-source contributions. Driven by continuous learning, I actively engage in the Salesforce Stack Exchange community, sharing insights and solutions that reflect my dedication to quality and professional growth.
 
 * 🌍  I'm based in Czech Republic - Highland
-* 🖥️  See my portfolio at [Brag App](http://brag-app-dev-ed.my.site.com/)
-* 🚀  I'm currently working on [Better Navigator for Salesforce](http://github.com/dannysummerlin/force-navigator)
+* 🖥️  See my portfolio at [Brag App](http://brag-app-dev-ed.my.site.com/) – a Salesforce-based site showcasing my work (a project I'm proud of)
+* 🚀  I'm currently working on [force-navigator-reloaded](https://github.com/damecek/force-navigator-reloaded) – a Chrome extension providing a command palette for quick Salesforce navigation
 * 🧠  I'm learning Typescript and SF CLI Plugin Development
 
   
@@ -16,18 +16,11 @@ I am a focused software developer with expertise in Salesforce and a commitment 
     <img src="https://komarev.com/ghpvc/?username=damecek&label=Profile%20views&color=0e75b6&style=flat" alt="damecek"/>
 </p>
 
-<table align="center">
-    <td>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=damecek&title=MultiLanguage,Commits&row=1&column=2&theme=nord" alt="damecek"/>
-        </a>
-    </td>
-    <td>
-        <a href="https://salesforce.stackexchange.com/users/96748/damecek">
-            <img src="https://salesforce.stackexchange.com/users/flair/96748.png?theme=dark" width="208" height="58">
-        </a>
-    </td>
-<table>
+<p align="left">
+    <a href="https://salesforce.stackexchange.com/users/96748/damecek">
+        <img src="https://salesforce.stackexchange.com/users/flair/96748.png?theme=dark" width="208" height="58" alt="Salesforce Stack Exchange profile"/>
+    </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/adam-stepanek-cz" target="blank">
@@ -68,11 +61,3 @@ I am a focused software developer with expertise in Salesforce and a commitment 
     </a>
 </p>
 
-<table align="center">
-    <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damecek&show_icons=true&locale=en&layout=compact&theme=radical" alt="damecek"/>
-    </td>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=damecek&show_icons=true&locale=en&theme=radical" alt="damecek"/>
-    </td>
-</table>
